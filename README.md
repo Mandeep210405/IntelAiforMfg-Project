@@ -32,7 +32,6 @@ This project implements a custom YOLOv12 object detection system specifically de
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Mandeep210405/IntelAiforMfg-Project
-   cd AI-Project
    ```
 
 2. **Install dependencies**
